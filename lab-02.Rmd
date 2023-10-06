@@ -26,7 +26,7 @@ read_csv(mismanaged-plastic-waste-per-capita.csv)
 
 # Member 3 write code to load File 3 data here:
 
-read_tsv("data/UN_country_population.tsv")
+data_3 <- read_tsv("data/UN_country_population.tsv")
 
 # Member 4 write code to load File 4 data here:
 
